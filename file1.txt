@@ -1,1 +1,9 @@
 This is file1
+
+Colors:
+red
+orange
+yellow
+green
+blue
+purple
